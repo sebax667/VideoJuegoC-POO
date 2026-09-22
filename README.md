@@ -30,4 +30,4 @@ dotnet run
 
 ## Autor
 
-Proyecto desarrollado para practicar POO en C#.
+ING sebastian tobon Proyecto desarrollado para practicar POO en C#.
