@@ -10,7 +10,7 @@ Proyecto en consola desarrollado en C# que aplica los principios básicos de la 
 - **Sobrecarga de Constructores:** Inicialización flexible de objetos según parámetros disponibles.
 - **Mecánicas de Juego:** Métodos para atacar, curarse, recibir daño y subir de nivel.
 - **Validación de Estado:** Métodos para verificar supervivencia (`EstaVivo()`) y retorno de salud actual.
--
+
 ## Características
 
 - Tres constructores en la clase `Personaje`
